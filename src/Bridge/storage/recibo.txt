@@ -1,0 +1,3 @@
+Recibo: Empressa: Before
+Cliente: João da Silva
+Valor: 256

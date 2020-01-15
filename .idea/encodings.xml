@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Category.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Operation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Promotion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Restaurant.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Entities/Validity.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Exceptions/Handler.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Queries/CategoryQuery.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Queries/ProductQuery.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Queries/PromotionQuery.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Types/CategoryPagination.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Types/CategoryType.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Types/ProductType.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Types/PromotionType.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Unions/CategoryResultUnion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Unions/ProductResultUnion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/GraphQL/Unions/PromotionResultUnion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Http/Controllers/CategoryController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Http/Controllers/ProductController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Providers/AppServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Providers/AppServicesServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Providers/RepositoryServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/CategoryRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/OperationRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/ProductRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/PromotionRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/RestaurantRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Repositories/ValidityRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Services/CategoryService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Services/ProductService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Services/PromotionService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Services/RestaurantService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Transformers/CategoryTransformer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/app/Transformers/RestaurantTransformer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/bootstrap/app.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/composer.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/config/database.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/config/graphql.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/public/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/resources/views/vendor/graphql/graphiql.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/routes/api.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/Goomer/routes/web.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/OnlineOrders/Models/Customer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/OnlineOrders/Models/DigitalMediaProduct.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/OnlineOrders/Models/PhysicalProduct.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/OnlineOrders/Models/Product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-challenges/OnlineOrders/Models/SubscriptionProduct.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+  </component>
+</project>
