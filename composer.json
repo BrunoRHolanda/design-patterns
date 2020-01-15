@@ -1,0 +1,28 @@
+{
+  "name": "bruno-holanda/design-patterns",
+  "type": "project",
+  "description": "Design Patterns para PHP",
+  "keywords": [
+    "Algoritmos",
+    "Design Patterns"
+  ],
+  "require": {
+    "nesbot/carbon": "^2.25.0"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "extra": {
+    "laravel": {
+      "dont-discover": []
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Pattern\\": "src/",
+      "Challenge\\": "backend-challenges"
+    }
+  }
+}

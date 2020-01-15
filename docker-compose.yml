@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  app:
+    image: ambientum/php:7.1-caddy
+    container_name: app
+    build: .
+    volumes:
+      - .:/var/www/app
+  httpd:
+    image: php:7.1-apache
+    container_name: httpd
+    ports:
+      - '80:8090'
+      - '443:4433'
+    volumes:
+      - .:/var/www/html
